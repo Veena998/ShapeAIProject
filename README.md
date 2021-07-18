@@ -1,1 +1,1 @@
-# ShapeAIProjrct
+# ShapeAIProject
